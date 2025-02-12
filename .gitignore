@@ -2,6 +2,11 @@
 .env
 .config.json
 
+electron.js
+electron--chrominum.html
+electron--chrominum.js
+electron--chrominum.js.debug
+
 # Logs
 logs
 *.log
